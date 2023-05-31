@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+  <property><!--数据库连接地址，使用MySQL存储元数据信息-->
+    <name>javax.jdo.option.ConnectionURL</name>
+    <value>jdbc:mysql://node03:3306/metastore?createDatabaseIfNotExist=true&amp;useSSL=false</value>
+  </property>
+  <property><!--数据库驱动-->
+    <name>javax.jdo.option.ConnectionDriverName</name>
+    <value>com.mysql.jdbc.Driver</value>
+  </property>
+  <property><!--数据库用户名-->
+    <name>javax.jdo.option.ConnectionUserName</name>
+    <value>root</value>
+  </property>
+  <property><!--密码-->
+    <name>javax.jdo.option.ConnectionPassword</name>
+    <value>123456</value>
+  </property>
+  <property><!--HDFS路径，用于存储不同 map/reduce 阶段的执行计划和这些阶段的中间输出结果。-->
+    <name>hive.exec.local.scratchdir</name>
+    <value>/hive/tmp</value>
+  </property>
+  <property><!--HDFS路径，本地表的默认位置-->
+    <name>hive.metastore.warehouse.dir</name>
+    <value>/hive/warehouse</value>
+  </property>
+  <property><!--本地路径：Hive 查询日志所在的目录，如果该值为空，将不创建查询日志。-->
+    <name>hive.querylog.location</name>
+    <value>/tmp/hive/logs</value>
+  </property>
+  <property><!--本地路径：Hive操作日志-->
+    <name>hive.server2.logging.operation.log.location</name>
+    <value>/tmp/hive/logs</value>
+  </property>
+  <property><!--本地路径：远程资源下载的临时目录-->
+    <name>hive.downloaded.resources.dir</name>
+    <value>/tmp/hive/resources</value>
+  </property>
+    
+  <property>
+    <!-- hiveserver2用户名 -->
+    <name>beeline.hs2.connection.user</name>
+    <value>root</value>
+  </property>
+  <property>
+    <!-- hiveserver2密码 -->
+    <name>beeline.hs2.connection.password</name>
+    <value>123456</value>
+  </property>
+</configuration>
+

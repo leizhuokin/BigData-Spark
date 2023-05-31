@@ -1,0 +1,4 @@
+# Project exclude paths
+/RDD/target/
+/SparkSql/target/
+/StructuredStreaming/target/

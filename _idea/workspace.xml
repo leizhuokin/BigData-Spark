@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e2fd465-61be-4df0-9826-8d6bd86548ab" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Package Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="enabledProfiles">
+      <list>
+        <option value="jdk-1.8" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2HoDD7HPhoBAMW9M2Xw0NFhgzmQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last.edited.regexp" value="示例文本" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/StructuredStreaming/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\BigData\StructuredStreaming\src\main\resources" />
+      <recent name="D:\IdeaProjects\BigData\SparkStreamCase\src\main\resources" />
+      <recent name="D:\IdeaProjects\BigData\SparkSql" />
+      <recent name="D:\IdeaProjects\BigData\SparkSql\src\main\scala" />
+      <recent name="D:\IdeaProjects\BigData\SparkSql\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\BigData" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StreamingQuick">
+    <configuration name="AdBlackUserApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.zut.spark.stream.app.AdBlackUserApp" />
+      <module name="SparkStreamCase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.zut.spark.stream.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mocker" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.zut.spark.stream.util.Mocker" />
+      <module name="SparkStreamCase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.zut.spark.stream.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamingQuick" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="StreamingQuick" />
+      <module name="StructuredStreaming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="RDD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="window" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="window" />
+      <module name="SparkStreaming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamingQuick" />
+        <item itemvalue="Application.window" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Mocker" />
+        <item itemvalue="Application.AdBlackUserApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e2fd465-61be-4df0-9826-8d6bd86548ab" name="Changes" comment="" />
+      <created>1668942421416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668942421416</updated>
+      <workItem from="1668942422902" duration="3490000" />
+      <workItem from="1668947938284" duration="95000" />
+      <workItem from="1669003121817" duration="596000" />
+      <workItem from="1669025949777" duration="146000" />
+      <workItem from="1669029610135" duration="3730000" />
+      <workItem from="1669122918081" duration="255000" />
+      <workItem from="1669194054126" duration="69000" />
+      <workItem from="1669283538955" duration="334000" />
+      <workItem from="1669284723826" duration="293000" />
+      <workItem from="1669430575704" duration="4804000" />
+      <workItem from="1669435762913" duration="1833000" />
+      <workItem from="1669528565250" duration="108000" />
+      <workItem from="1669528939679" duration="47000" />
+      <workItem from="1669531842797" duration="2539000" />
+      <workItem from="1669553974604" duration="209000" />
+      <workItem from="1669608788940" duration="4793000" />
+      <workItem from="1669633307708" duration="1371000" />
+      <workItem from="1669640061522" duration="526000" />
+      <workItem from="1669642629470" duration="1916000" />
+      <workItem from="1669703623386" duration="1239000" />
+      <workItem from="1669705322164" duration="8849000" />
+      <workItem from="1669716665156" duration="365000" />
+      <workItem from="1669717549987" duration="816000" />
+      <workItem from="1669722519508" duration="364000" />
+      <workItem from="1669723362167" duration="912000" />
+      <workItem from="1669777361273" duration="967000" />
+      <workItem from="1669782630667" duration="1389000" />
+      <workItem from="1669784575326" duration="3845000" />
+      <workItem from="1669793776352" duration="809000" />
+      <workItem from="1669889436009" duration="1403000" />
+      <workItem from="1669890868708" duration="79000" />
+      <workItem from="1669890964726" duration="1332000" />
+      <workItem from="1669892760363" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.apache.spark.SparkException" package="org.apache.spark" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
